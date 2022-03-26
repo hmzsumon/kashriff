@@ -21,22 +21,26 @@ Primary use:  ib-themes
 14. themefy
 
 -------------------------------------------------------------------*/
-@import "bootstrap";
-@import "et-line-font";
-@import "main/variable";
-@import "main/mixin";
-@import "main/base";
-@import "main/button";
-@import "main/color";
-@import "main/header";
-@import "main/footer";
-@import "main/blog";
-@import "main/portfolio";
-@import "main/style";
-@import "main/404";
-@import "main/preview";
-@import "main/animation";
-@import "main/slick";
-@import "main/modal";
-@import "main/rtl";
-@import "main/custom-theme-dark";
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import 'bootstrap';
+
+@import 'et-line-font';
+@import 'main/variable';
+@import 'main/mixin';
+@import 'main/base';
+@import 'main/button';
+@import 'main/color';
+@import 'main/header';
+@import 'main/footer';
+@import 'main/blog';
+@import 'main/portfolio';
+@import 'main/style';
+@import 'main/404';
+@import 'main/preview';
+@import 'main/animation';
+@import 'main/slick';
+@import 'main/modal';
+@import 'main/rtl';
+@import 'main/custom-theme-dark';
