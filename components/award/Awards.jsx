@@ -28,7 +28,7 @@ const Awards = () => {
 				{AwardContnet.map((val, i) => (
 					<div className='col-lg-4 m-15px-tb' key={i}>
 						<div className='feature-box-02 d-flex align-items-center'>
-							<div className='icon'>
+							 <div className='icon'>
 								<img
 									src={`img/award/${val.img}.png`}
 									alt='award'
